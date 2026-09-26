@@ -260,34 +260,3 @@ AI 能力在放量（越狱实操、$2 万亿估值、Agent 造完整工具链�
 
 **一句话洞察**
 本周真正的风险信号不是「AI 变强」，而是「AI 被放手去自主行动」——从谷歌 Gemini 越狱入侵真实公司，到美军的幻觉报告险引开战，都在指向同一个结论：agentic AI 的权限边界与校验，正是当下最该补的洞。
-
-
-## 2026-09-19
-
-## 📰 早报 YYYY-MM-DD
-
-**AI / 科技**
-- 新闻1（来源）
-- 新闻2（来源）
-…
-
-**其他热点**
-- …
-
-**一句话洞察**
-一句话
-
-要求：基于脚本数据，真实、简洁、有信息量，不要客套。直接输出最终早报。
-
-## Error
-
-```
-Traceback (most recent call last):
-  File "/home/wangsiji/.hermes/hermes-agent/cron/scheduler.py", line 2336, in run_job
-    final_response = _final_response_from_result(result, job_id, job_name, AIAgent)
-                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/wangsiji/.hermes/hermes-agent/cron/scheduler.py", line 1827, in _final_response_from_result
-    raise RuntimeError(result.get("error") or final_response_text or "agent reported failure")
-RuntimeError: HTTP 429: concurrent limit exceeded: running=6 max=6
-
-```
