@@ -1,0 +1,25 @@
+site_name: 信息输入系统
+site_description: 每日AI早报 · 人物周报 · 每周要点
+site_url: https://wangsiji.github.io/info-input-hub/
+docs_dir: docs
+site_dir: site
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - 首页: index.md
+  - 每日早报: daily.md
+  - 人物周报: weekly.md
+  - 每周要点: digest.md
