@@ -1,11 +1,32 @@
 # 人物周报
 
-_每周一 08:30 · 26 位 AI builders 深度观点 · 最近 1 期_
+_每周一 08:30 · 26 位 AI builders 深度观点 · 最近 2 期_
 
 ---
 
 
-## 2026-09-26
+## 2026-09-28
+
+## 👤 人物周报（本周）
+
+**本周最值得追踪**
+- @rauchg — 发了一条本周最锋利的观点帖（"抵制不理解 / slop 手雷"，谈 AI 产出的低质文字正在让"阅读"本身贬值），直接戳中内容创作与 AI 协作的痛点，值得点进去读全。
+
+**值得看**
+- @rauchg：抵制"非理解"——slop 手雷不只是烂代码和烂 PR，而是 AI 垃圾文字被反复倾倒后，会让"阅读"这件事整体贬值。他想要的 AI 是服务理解、增强人类认知与创造力，而非替代。这条值得反复读。(https://x.com/rauchg/status/2103939888513274147)
+- @trq212：一年前第一次用 Claude Code 做视频时，每条都要反复迭代、手动指出细节错误；回头看一年变化之快令人咋舌。真实的时间线对比，比任何宣称都直观（https://x.com/trq212/status/2103897226154328502）
+- @steipete：看到某个演示后发出"现在懂为什么有人谈 AGI 了"——来自资深 dev 的一句克制惊叹，通常意味着那东西真的有点东西（https://x.com/steipete/status/2103883264054505493)
+- @petergyang（合并 3 条）：集体制手见 AI 教学应用——用 Gemini 音频 API 做日语口语学习 App、以及首次用 antigravity 尝鲜 Google 新音频 API。音频交互是本周明显的产品方向（https://x.com/petergyang/status/2104059554204188833）
+- @steipete（合并）：根治 bug 的方式改成了交给 AI agent 直接上生产环境问题，配合 GPT-6 推理——修 bug 的范式在变（https://x.com/petergyang/status/2103989902476259702）
+
+**本周风向**
+音频交互 App（Gemini/Claude 语音）在 builder 圈明显起势，同时警惕 AI slop 污染"阅读"的共识开始成为话题——真正值得跟的是后者，它决定内容创作的下限。
+
+
+<details><summary>📅 2026-09-26</summary>
+
+
+
 
 ## 👤 人物周报（本周）
 
@@ -19,3 +40,5 @@ _每周一 08:30 · 26 位 AI builders 深度观点 · 最近 1 期_
 
 **本周风向**
 本周信号集中在"代理规模化场景的真实摩擦"——从 @sama 的 agent 联网伦理审查、@rauchg 的 agent 集成即采购标准、到 @steipete 的并发 DB 瓶颈，行业正从"造 agent"转向"管 agent"；而为 Cursor 力推 effort 分级、为 Claude 做内部编程的 @bcherny 则在定义"agent 时代的实际操作准则"。
+
+</details>
