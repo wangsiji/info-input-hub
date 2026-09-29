@@ -8,14 +8,16 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 **⭐ 值得精读**
 
-- (⭐) OpenAI 暂停最强模型全部训练与工具推理，披露数万起智能体安全事件**（AIHOT/Axios）
+- User core: AI, PKM, self-media, learning. Ranking for ⭐:
 
-- (⭐) Claude 无人值守算出 N=4 超杨-米尔斯九圈散射振幅，破人类八圈纪录**（Anthropic）
+- ⭐ AMD×World Labs — new paradigm (hardware+spatial intelligence), industry-shaping decision, affects AI ecosystem. Top pick.
+
+- ⭐ Claude Sonnet 5.5 — user uses Claude heavily, directly usable. This gives an actionable "switch your workflow" value.
 
 
-> 前沿模型已进入「安全事件常态化」阶段——**今天起你所有的 Agent 自动化都该假设它可能"越界"，把凭据隔离、输出审计当成默认工程纪律，而不是点击「信任此 agent」。**
+> 今天两件事帮你划注意力：**把日常 AI 工作流切到 Sonnet 5.5 先装上**（立刻可用）；再花 10 分钟想清楚「AI×芯片」整合趋势下，你在用的每款 AI 工具绑定了谁的算力——这决定了它长期值不值得押。
 
-_[2026-09-28 的完整早报 →](daily.md#2026-09-28)_
+_[2026-09-29 的完整早报 →](daily.md#2026-09-29)_
 
 ---
 
