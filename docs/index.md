@@ -6,18 +6,9 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 ## 📌 今日早报
 
-**⭐ 值得精读**
+> 明天就别只追新模型榜单了——现在的关键判断是「**该把你手里的 1 个工作流交给长时 agent 跑云端**」：成本已降七倍、护栏得当就有得用，先用一行命令把「晨报/消息窗」这类最轻流程交给 dots，逼自己去守住注意力，而不是再刷一轮有没有新发布。
 
-- User core: AI, PKM, self-media, learning. Ranking for ⭐:
-
-- ⭐ AMD×World Labs — new paradigm (hardware+spatial intelligence), industry-shaping decision, affects AI ecosystem. Top pick.
-
-- ⭐ Claude Sonnet 5.5 — user uses Claude heavily, directly usable. This gives an actionable "switch your workflow" value.
-
-
-> 今天两件事帮你划注意力：**把日常 AI 工作流切到 Sonnet 5.5 先装上**（立刻可用）；再花 10 分钟想清楚「AI×芯片」整合趋势下，你在用的每款 AI 工具绑定了谁的算力——这决定了它长期值不值得押。
-
-_[2026-09-29 的完整早报 →](daily.md#2026-09-29)_
+_[2026-09-30 的完整早报 →](daily.md#2026-09-30)_
 
 ---
 
