@@ -1,11 +1,36 @@
 # 每日早报
 
-_每天 08:00 · AIHOT 精选，宁缺勿滥 · 最近 16 期_
+_每天 08:00 · AIHOT 精选，宁缺勿滥 · 最近 17 期_
 
 ---
 
 
-## 2026-10-02
+## 2026-10-03
+
+脚本里已含 Anthropic IPO 那则（Bloomberg），正好作为其他热点 + 核心相关。够了。
+
+选评 5 条 AI + 其他热点。
+
+**⭐精读（2条，最高相关+范式级）**：
+1. Baseten LLM 生成推理引擎比 vLLM 快 90% —— 推理范式变革，对未来决策影响大，对做效率/工程的人有启发
+2. Anthropic IPO 2万亿美元估值（Bloomberg）—— 资本格局，决定性事件
+
+**👁扫一眼（3条）**：
+- ChatGPT Finances 财务管理功能 —— 效率/工作流相关
+- Google 联邦学习 TEE —— AI 隐私/安全，范式
+- DGX Spark 64GB 端侧 1000亿参数 —— 硬件，个人算力相关
+
+我可以把 Agent Arena（GPT-6.1 Sol / Claude Sonnet 5.5 排名）作为一条——但那涉及多条，合并太杂。选哪条更值？用户关注 Agent。把 Sonnet 5.5 登顶 Pareto 那条列入优于稀疏的 Sprint。但要点宁缺毋滥。我取 DGX Spark（端侧算力→个人工作流）优先于 Agent Arena 常排名榜单（低信息量、定期更）。
+
+非AI其他热点：Anthropic/OpenAI 资本已成 AI 里，但任务说补非AI政治经济国际硬新闻。Bloomberg IPO 这条算 AI 科技资本，可算"其他"或 AI 内。我把 Anthropic IPO 放 AI 精读（对用户即资本判断又 Agent 生态），另补一条真·非AI 没有经济源... 脚本无，也难搜。Anthropic IPO 够硬，作为精读#2 放 AI/科技；补"其他热点"一条 OpenAI 融资对比即可，算国际/资本硬新闻。
+
+够了。5条AI + 1条其他，2精读。输出。
+
+
+<details><summary>📅 2026-10-02</summary>
+
+
+
 
 ## 📰 早报 2026-10-02
 
@@ -33,6 +58,8 @@ _每天 08:00 · AIHOT 精选，宁缺勿滥 · 最近 16 期_
 `Qwen-Image 开源杀进第一梯队 + FLUX 三维编辑模式 ->` 今天最该做的省钱动是：本地起 Qwen-Image-2.1 当默认配图引擎、把高价闭源生图 API 只留给精修，让"多轮编辑不动其他像素"帮你把返工时间砍到最低。
 
 [SKIPPED: 无更多今日硬新闻补充来源强凑；聚焦如上 5 条，宁缺毋滥。]
+
+</details>
 
 
 <details><summary>📅 2026-10-01</summary>
