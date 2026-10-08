@@ -8,16 +8,12 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 **⭐ 值得精读**
 
-- (⭐) DeepSeek 近完成至少 800 亿融资，腾讯、宁德时代领投，计划 2027 初 IPO（Bloomberg）
+- (⭐) GPT-6 全量铺开 + Luna Decisions 决策 API 上架（OpenRouter / AIHOT）
 
-- (⭐) DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 刷新性价比极值：ARC-AGI-2 72.9%、$0.13/任务（via AIHOT/ARC Prize）
-
-- (⭐) OpenAI 发布内部前沿模型产出的数学研究成果，公开 GitHub 仓库 + Lean 形式化验证（AIHOT）
+- (⭐**- Claude Haiku 5.5 发布，AA 智能指数 43（AIHOT））
 
 
-> 今天最该带走的判断：**"每任务成本"已成你的模型选型主公式（DeepSeek 用 $0.13/任务打脸所有人的效率想象力，它的融资/IPO正是这一趋势的资本侧确认）——用"便宜跑量 + 贵模型押关键推理"的双轨来重构你手里的 AI 工作流，这就是你今天能立刻用的那件事。**
-
-_[2026-10-07 的完整早报 →](daily.md#2026-10-07)_
+_[2026-10-08 的完整早报 →](daily.md#2026-10-08)_
 
 ---
 
