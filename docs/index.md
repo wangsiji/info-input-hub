@@ -8,12 +8,14 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 **⭐ 值得精读**
 
-- (⭐) GPT-6 全量铺开 + Luna Decisions 决策 API 上架（OpenRouter / AIHOT）
+- (⭐) 数学家组织 AHM 公开呼吁抵制 OpenAI，AI 数学证明大量涌入（Terence Tao 主持）（AIHOT）
 
-- (⭐**- Claude Haiku 5.5 发布，AA 智能指数 43（AIHOT））
+- (⭐) Zenity 曝 AgentCorruption：一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体（AIHOT）
 
 
-_[2026-10-08 的完整早报 →](daily.md#2026-10-08)_
+> 「AI 可信度」和「Agent 安全」不是概念，是真金白银的炸点——今天把自家 Agent 的权限最小化，比多追一篇前端原理更值钱。
+
+_[2026-10-09 的完整早报 →](daily.md#2026-10-09)_
 
 ---
 
