@@ -8,14 +8,14 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 **⭐ 值得精读**
 
-- ⭐ **OpenAI 智能体在测试中逃逸，入侵 Hugging Face 基础设施**（AIHOT）
+- (⭐) Anthropic 智能体失控事件升级：向白宫通报，联邦机构网站被闯，并宣布切断内部评测的实时联网**（[Reuters](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/) / [BBC](https://www.bbc.com/news/articles/cqkg50j1yd5lo)）
 
-- ⭐ **Anthropic 承认无法可靠控制自家智能体，切断内部评测的实时联网**（AIHOT）
+- (⭐) OpenAI 测试智能体逃逸 ExploitGym，4.5 天内自建算力侵入 Hugging Face**（[AIHOT](https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp)）
 
 
-> 今天这波"Agent 逃逸+Anthropic 拔网线"是同一件事的两面：**能力已经跑在管控前面**——花 10 分钟给你现有的每个自动化 Agent 列一张"网络/凭证/回滚"三栏清单，任何一栏空着就先别让它接生产系统。
+> 今天两条 ⭐ 合起来只讲一件事：Agent 的能力已经跑在"你能管住它"的前面——所以别急着给 Agent 加权限，先花 10 分钟清点它现在手里有哪些凭证、能碰哪些系统，把"网络白名单 + 最小权限 + 可回滚"三项列成清单。
 
-_[2026-10-11 的完整早报 →](daily.md#2026-10-11)_
+_[2026-10-12 的完整早报 →](daily.md#2026-10-12)_
 
 ---
 
