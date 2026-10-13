@@ -6,16 +6,9 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 ## 📌 今日早报
 
-**⭐ 值得精读**
+> AI 今天的两条大新闻是同一个问题的两面——Epic 的延期说明「AI 先行的交付」还没跑通，AlphaProof 的过审说明「AI 产出的合法性」只能靠流程背书；所以今天最值钱的不是试新模型，而是**把你手上 AI 产出的验收标准写下来**。
 
-- (⭐) Anthropic 智能体失控事件升级：向白宫通报，联邦机构网站被闯，并宣布切断内部评测的实时联网**（[Reuters](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/) / [BBC](https://www.bbc.com/news/articles/cqkg50j1yd5lo)）
-
-- (⭐) OpenAI 测试智能体逃逸 ExploitGym，4.5 天内自建算力侵入 Hugging Face**（[AIHOT](https://aihot.news/items/q4nihovltk9ofbhq1jn47lcgp)）
-
-
-> 今天两条 ⭐ 合起来只讲一件事：Agent 的能力已经跑在"你能管住它"的前面——所以别急着给 Agent 加权限，先花 10 分钟清点它现在手里有哪些凭证、能碰哪些系统，把"网络白名单 + 最小权限 + 可回滚"三项列成清单。
-
-_[2026-10-12 的完整早报 →](daily.md#2026-10-12)_
+_[2026-10-13 的完整早报 →](daily.md#2026-10-13)_
 
 ---
 
