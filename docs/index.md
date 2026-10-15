@@ -8,14 +8,14 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 **⭐ 值得精读**
 
-- (⭐) Gemini 4 Argon 正式 GA：智能指数追平 GPT-6 Astra，Cost per Task 仅 60%**（[AIHOT](https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9)）
+- (⭐) 欧盟就模型越狱事件正式调查 OpenAI 和 Anthropic，最高罚全球营业额 3%**（[AIHOT](https://aihot.news/items/yq46ddqwq7ns4ilpaqh6k0kql)）
 
-- (⭐) Character.ai 破产文件：订阅收入峰值 280 万/月，算力支出却 1000–1380 万/月**（[AIHOT](https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8)）
+- (⭐) MIT 用机器学习后处理层，把 2–6 周天气预报准确率翻倍**（[AIHOT](https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9)）
 
 
-> 今天把「能力天花板」这个指标从你的模型选型表里删掉——Gemini 4 Argon 已经用 60% 的单价追平天花板，剩下的差距只在**具体任务类型**上；去按「知识类/操作类/生成类」三档分别定主力模型，而不是选一个「最强」的。
+> 今天最该花时间的不是追新模型，而是学 MIT 那招——不换工具，只加一层"我上次错在哪"的修正层；顺手把 AI 安全选题从"该不该管"改成"欧盟已经开罚了"，论点已落地。
 
-_[2026-10-14 的完整早报 →](daily.md#2026-10-14)_
+_[2026-10-15 的完整早报 →](daily.md#2026-10-15)_
 
 ---
 
