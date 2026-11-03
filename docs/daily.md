@@ -1,6 +1,6 @@
 # 每日早报
 
-_每天 08:00 · AIHOT 精选，宁缺勿滥 · 最近 47 期_
+_每天 08:00 · AIHOT 精选，宁缺勿滥 · 最近 48 期_
 
 ---
 
@@ -232,47 +232,5 @@ AI 这一周同时被"技术侧降价"和"资本侧杀估值"两股力拉——�
 
 ---
 skipped: 纯提示词分享类、Lovable 增长工具、Meta Muse Wonder 排名、Grok Voice 评测（低相关/常规进展），需要时再补。
-
-</details>
-
-
-<details><summary>📅 2026-10-14</summary>
-
-
-
-
-## 📰 早报 2026-10-14
-
-**AI / 科技**
-
-- **(⭐) Gemini 4 Argon 正式 GA：智能指数追平 GPT-6 Astra，Cost per Task 仅 60%**（[AIHOT](https://aihot.news/items/w2fkb8pssvuc0mtttxnufchc9)）
-  为什么值得：命中你的核心追击线索「每任务成本重定价」——能力持平、单价 6 折，等于把「选模型」的锚点彻底推回成本。实测配套数据也在同批：[Vals Index 综合第一 68.9、单次成本 15.68 美元，但 CUA-bench 仅 4.83% 倒数第二，前端不如 Astra，中文写作味道重、额度烧得快](https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi)；[OpenRouter 已上线，$2/M 输入、$10/M 输出，AutomationBench 51.3%](https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf)。
-  **带走一个判断**：知识类长文/研究整理可以切 Argon 省钱，但**带浏览器操作（CUA）和前端生成的活别交给它**——4.83% 意味着它几乎干不了「点界面」的 Agent 任务。今天就能做：把你最贵的那个知识型批量任务换到 Argon 试一次，对比 token 账单。
-
-- **(⭐) Character.ai 破产文件：订阅收入峰值 280 万/月，算力支出却 1000–1380 万/月**（[AIHOT](https://aihot.news/items/pjy8fk8cfl1qvwex08y6kdau8)）
-  为什么值得：这是「AI 公司资本定价与估值扩张」线索第一次出现**反向铁证**——不是估值高不高的问题，而是单位经济模型本身撑不住（收入/算力 ≈ 1:4）。对你有两层用：一是判断该不该把个人工作流长期绑定某家 C 端 AI 产品（可能突然关停/涨价），二是自媒体强选题「AI 订阅制的账算不过来」。
-  **带走一个判断**：只对**能导出自己数据**的 AI 产品做长期沉淀，聊天记录/知识库不要存在无 export 的闭源 App 里。今天花 2 分钟检查你主力 AI 工具有没有一键导出。
-
-- **OpenAI 办公室发现隐蔽录音装置，涉事员工被 FBI 逮捕**（[AIHOT](https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov)）
-  为什么值得：命中「Agent 安全与监管国家化」线索。注意细节——OpenAI 是**用自己的模型分析该设备及来源**后锁定的员工，AI 从被防护对象变成了内部安全调查工具。目前无证据显示权重/源码/客户数据外泄。
-
-- **XBOW 团队用 GPT-5.6 Sol，6 天 / 4 万美元算力做出 Chrome 全链漏洞，拿 Google 25 万美元赏金**（[AIHOT](https://aihot.news/items/ekphiltd4fdsskdlueleul8qa)）
-  为什么值得：过去同类漏洞约需 6 个月，现在 6 天。攻防两侧的成本曲线都在被 AI 压平——顺手做件事：看到 Chrome 的 Update 按钮就重启。
-
-- **Apple 发布 7 英寸智能音箱 HomeView，299 美元，11 月 13 日发售**（[AIHOT](https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40)）
-  为什么值得：带屏 + Siri AI 的家庭中枢，是「Agent 拿到自己的硬件」线索在消费端的落地。跟你的数码/效率内容赛道相关，但不必现在决策。
-
-（略过：Meta Muse Wonder 进榜、ComfyUI 上 NVIDIA VFX 节点、LangSmith AI Search、ElevenLabs 语音重建——前两条与你的关注面弱相关，后两条信息量不足以占今天的位置。）
-
-**其他热点**
-
-- **IMF 发布 10 月《世界经济展望》：经济韧性承压，通胀攀升、缓冲空间收窄，呼吁立即政策行动**（[IMF](https://www.imf.org/zh/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026)）
-  与你直接相关：外部环境走弱时，「把成本压到能力之下的工具」和「能独立变现的个人 IP」是抗风险资产——这两条正好是你现在在做的事。
-
-- **「特习会」下月 APEC 登场，特朗普称亚洲行或见金正恩**（[VOA](https://www.youtube.com/watch?v=ZMd-fe_3skI)）
-  大国博弈节奏点，影响科技/关税预期，留意即可。
-
-**一句话洞察**
-今天把「能力天花板」这个指标从你的模型选型表里删掉——Gemini 4 Argon 已经用 60% 的单价追平天花板，剩下的差距只在**具体任务类型**上；去按「知识类/操作类/生成类」三档分别定主力模型，而不是选一个「最强」的。
 
 </details>
