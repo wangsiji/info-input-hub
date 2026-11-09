@@ -4,21 +4,6 @@ _个人 AI 信息雷达 · 每天知道该把注意力放在哪_
 
 ---
 
-## 📌 今日早报
-
-**⭐ 值得精读**
-
-- (⭐) DeepSeek-V4.1-Flash-1017 登顶 Agent Arena 开源第一**（[AIHOT](https://aihot.news/items/h6okcjroca6s95iemyh7dhpcm)）
-
-- (⭐) Meta 详解 Thin Orchestrator 模式：让路由少干活提升 Agent 可靠性**（[AIHOT](https://aihot.news/items/qh6pvehounuylklti7i0zl124)）
-
-
-> 今天真正值得记的不是哪个模型又登顶，而是「编排」这件事被 Meta 和 Numan 从两个方向同时证明了：能力增长最快的做法是**把决策层做薄、把评测标准写死**——今天花 20 分钟给你现有的一个 AI 工作流（比如早报取数或剪藏补全）加一层「这次错在哪」的记录文件，比换任何新模型都划算。
-
-_[2026-10-20 的完整早报 →](daily.md#2026-10-20)_
-
----
-
 ## 三线 pipeline
 
 | 时点 | 产出 | 说明 |
